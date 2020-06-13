@@ -178,3 +178,9 @@ p {
        margin-bottom: 2%;
     }
  }
+
+/* Desktop */
+img {
+   width: 100%;
+   display: auto;
+}

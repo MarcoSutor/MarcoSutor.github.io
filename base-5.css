@@ -5,7 +5,7 @@ body, html { height: 100% }
 
 body {  max-width: 1600px; 
         margin: 0 auto;
-        background-color: #d9d874; }
+        background-color: #74d979; }
 
 
 /* ==== PAGE WIDTH  ==== */
@@ -33,15 +33,15 @@ h1 {
     line-height: 46px;
     font-weight: 700;
     font-style: italic;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Indie Flower', serif;
     color: #131313;
-    margin: 0 0 23px
+    margin: 0 0 23px;
 }
 
 
 
 h2 {
-    font-family: 'Pacifico', cursive;
+   font-family: 'Indie Flower', serif;
    font-size: calc(32px + (48 - 32) * ((100vw - 320px)/(1600 - 320)));
 }
 
@@ -66,7 +66,7 @@ h2 {
 
 
 h3 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Indie Flower', serif;
     font-size: calc(22px + (28 - 22) * ((100vw - 320px)/(1600 - 320)))
 }
 
@@ -90,7 +90,7 @@ h3 {
 }
 
     h4 {
-        font-family: 'Pacifico', cursive;
+        font-family: 'Indie Flower', serif;
         font-size: calc(16px + (22 - 16) * ((100vw - 320px)/(1600 - 320)))
     }
 
