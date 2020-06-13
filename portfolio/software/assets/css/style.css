@@ -666,7 +666,7 @@ a[href^=tel] { text-decoration: none; color: #fff }
 	text-decoration: none;
 	color: #fff;
 	border-bottom: solid 2px #5ba745;
-	padding-bottom:3p;
+	padding-bottom:3px;
 }
 
 @media all and (max-width:767px) { 
